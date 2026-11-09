@@ -191,6 +191,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Fortnite · Updated 2026-11-08 · Shared under the MIT License*
+*Fortnite · Updated 2026-11-09 · Shared under the MIT License*
 
-<!-- rev 2026-11-08 -->
+<!-- rev 2026-11-09 -->
